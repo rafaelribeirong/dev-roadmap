@@ -1,17 +1,17 @@
 ````markdown
 # Dev Roadmap – Backend Java
 
-Autor: Rafael Ribeiro
+Autor: [Rafael Ribeiro](https://github.com/rafaelribeirong)  
 Objetivo: Dominar o desenvolvimento Backend com Java + Spring Boot, criando projetos práticos e publicando tudo no GitHub.
 
 ---
 
 ## Sobre o Projeto
 
-Este repositório documenta minha jornada de estudos e prática para me tornar Desenvolvedor Backend Java.  
-Aqui estão os projetos, anotações e aprendizados que estou construindo passo a passo.
+Este repositório documenta minha jornada de 6 meses de estudos e prática para me tornar Desenvolvedor Backend Java.  
+Cada diretório contém um projeto prático com objetivos técnicos específicos, seguindo uma progressão natural do aprendizado — do Java básico até a arquitetura profissional de aplicações.
 
-> Cada pasta representa um mês do roadmap com um projeto prático e objetivos específicos.
+> Cada projeto é desenvolvido com foco em boas práticas, código limpo e documentação clara.
 
 ---
 
@@ -39,7 +39,7 @@ dev-roadmap/
 | 3   | Segurança + Deploy + Docker | AuthAPI          |
 | 4   | Arquitetura e Clean Code    | CatalogAPI       |
 | 5   | Testes e Portfólio          | FinanceAPI       |
-| 6   | Preparação pro Mercado      | Java Starter Kit |
+| 6   | Preparação para o Mercado   | Java Starter Kit |
 
 ---
 
@@ -56,17 +56,17 @@ dev-roadmap/
 | IDE            | IntelliJ IDEA / VS Code |
 | Documentação   | Swagger, Markdown       |
 
-
 ---
 
 ## Contato
 
 E-mail: rafaelribeirong@gmail.com
-LinkedIn: https://linkedin.com/in/rafaelribeirong)
+LinkedIn: linkedin.com/in/rafaelribeirong
 
 ---
 
-> *“A disciplina vence o talento quando o talento não se disciplina.”*
+> “A disciplina vence o talento quando o talento não se disciplina.”
 > – Rafael Ribeiro
 
+```
 ```
