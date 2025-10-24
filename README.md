@@ -1,17 +1,23 @@
-````markdown
 # Dev Roadmap – Backend Java
 
-Autor: [Rafael Ribeiro](https://github.com/rafaelribeirong)  
-Objetivo: Dominar o desenvolvimento Backend com Java + Spring Boot, criando projetos práticos e publicando tudo no GitHub.
+**Autor:** [Rafael Ribeiro](https://github.com/rafaelribeirong)  
+**Descrição:** Roadmap de aprendizado em desenvolvimento Backend com Java e Spring Boot, com projetos práticos organizados por temas e tecnologias.
 
 ---
 
-## Sobre o Projeto
+## Sobre este repositório
 
-Este repositório documenta minha jornada de 6 meses de estudos e prática para me tornar Desenvolvedor Backend Java.  
-Cada diretório contém um projeto prático com objetivos técnicos específicos, seguindo uma progressão natural do aprendizado — do Java básico até a arquitetura profissional de aplicações.
+Este repositório apresenta uma estrutura de aprendizado voltada para quem está iniciando no desenvolvimento Backend com Java.  
+Os projetos estão organizados em ordem progressiva, cobrindo desde os fundamentos da linguagem até práticas profissionais com Spring Boot, segurança, testes e arquitetura.
 
-> Cada projeto é desenvolvido com foco em boas práticas, código limpo e documentação clara.
+> Todos os projetos seguem boas práticas de código, organização e documentação.
+
+---
+
+## Etapa Inicial – Fundamentos e Prática
+
+Esta é a **fase básica** do roadmap, voltada para o domínio dos principais conceitos e ferramentas do desenvolvimento Backend.  
+As próximas etapas avançadas serão adicionadas futuramente, incluindo tópicos como microsserviços, mensageria, CI/CD, testes de carga e arquitetura distribuída.
 
 ---
 
@@ -23,30 +29,30 @@ dev-roadmap/
 ├─ month-02-usersapi/       → Spring Boot + API REST + PostgreSQL
 ├─ month-03-authapi/        → Spring Security + JWT + Docker
 ├─ month-04-catalogapi/     → Arquitetura Limpa + DTOs + Tratamento de erros
-├─ month-05-financeapi/     → Testes + Qualidade de código
+├─ month-05-financeapi/     → Testes automatizados + Qualidade de código
 ├─ month-06-starterkit/     → Projeto completo e profissional
 └─ notes/                   → Anotações e resumos (Obsidian)
-````
+```
 
 ---
 
-## Cronograma de Estudos
+## Cronograma Temático
 
-| Mês | Foco Principal              | Projeto          |
-| --- | --------------------------- | ---------------- |
-| 1   | Fundamentos de Java + Git   | TaskManager CLI  |
-| 2   | Spring Boot + JPA + Banco   | UsersAPI         |
-| 3   | Segurança + Deploy + Docker | AuthAPI          |
-| 4   | Arquitetura e Clean Code    | CatalogAPI       |
-| 5   | Testes e Portfólio          | FinanceAPI       |
-| 6   | Preparação para o Mercado   | Java Starter Kit |
+| Foco Principal              | Projeto          |
+|-----------------------------|------------------|
+| Fundamentos de Java + Git   | TaskManager CLI  |
+| Spring Boot + JPA + Banco   | UsersAPI         |
+| Segurança + Deploy + Docker | AuthAPI          |
+| Arquitetura e Clean Code    | CatalogAPI       |
+| Testes e Portfólio          | FinanceAPI       |
+| Preparação para o Mercado   | Java Starter Kit |
 
 ---
 
 ## Tecnologias e Ferramentas
 
 | Categoria      | Ferramentas             |
-| -------------- | ----------------------- |
+|----------------|-------------------------|
 | Linguagem      | Java 17+                |
 | Framework      | Spring Boot             |
 | Banco de Dados | PostgreSQL              |
@@ -58,15 +64,25 @@ dev-roadmap/
 
 ---
 
-## Contato
+## Próximas Etapas (em construção)
 
-E-mail: rafaelribeirong@gmail.com
-LinkedIn: linkedin.com/in/rafaelribeirong
+Em breve serão adicionadas novas fases com foco em:
+
+- Microsserviços com Spring Cloud
+- Mensageria com RabbitMQ e Kafka
+- Testes de carga e performance
+- CI/CD com GitHub Actions
+- Monitoramento e observabilidade
+- Arquitetura distribuída e escalável
 
 ---
 
-> “A disciplina vence o talento quando o talento não se disciplina.”
-> – Rafael Ribeiro
+## Contato
 
-```
-```
+- E-mail: rafaelribeirong@gmail.com  
+- LinkedIn: [linkedin.com/in/rafaelribeirong](https://linkedin.com/in/rafaelribeirong)
+
+---
+
+> “A disciplina vence o talento quando o talento não se disciplina.”  
+> — Rafael Ribeiro
