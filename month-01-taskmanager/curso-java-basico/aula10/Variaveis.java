@@ -8,7 +8,7 @@ public class Variaveis {
 
         //aceito, mas não utilizado
         int _idade;
-        int $idade;
+       
         String ano2025;
 
         //não é convenção Java
