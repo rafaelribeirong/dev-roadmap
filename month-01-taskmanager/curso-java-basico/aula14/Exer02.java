@@ -2,7 +2,7 @@ package aula14;
 
 import java.util.Scanner;
 
-public class Exer02 {
+public static class Exer02 {
     
         public void main(String[] args){
 
